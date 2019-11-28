@@ -3,6 +3,7 @@
 > This repo is meant to be a guide for you to start learning and using docker! WIP :construction:
 
 ## Installation 
+**For Ubuntu**
 
 ```bash
 sudo apt-get remove docker docker-engine docker.io containerd runc
